@@ -1,0 +1,1 @@
+select id,name,class from "DB_DEMO"."STAGE_SCHEMA"."STUDENT" where mark > 75;

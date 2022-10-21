@@ -1,0 +1,1 @@
+select id,name, class, mark,subject,gender from  SF_POC.STUDENT;

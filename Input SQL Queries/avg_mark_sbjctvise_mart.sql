@@ -1,0 +1,1 @@
+select subject,avg(mark) from "DB_DEMO"."MART_SCHEMA"."STUDENT_OUT" group by 1;

@@ -1,0 +1,1 @@
+select id,name, class, mark,subject,gender from "POC"."TELEMETRY"."SNOWSCAPE_STUDENT_MART";

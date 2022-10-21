@@ -1,0 +1,1 @@
+select subject,sum(mark) from "DB_DEMO"."STAGE_SCHEMA"."STUDENT" group by subject;

@@ -1,0 +1,1 @@
+select count(*) from "DB_DEMO"."MART_SCHEMA"."STUDENT_OUT" where mark>75;
